@@ -1,0 +1,11 @@
+{
+    "name": "NinkyNonk Finance",
+    "website": "https://twitter.com/ninkynonktoken",
+    "description": "Absolutely no goal apart from taking the piss and going to the moon!",
+    "explorer": "https://bscscan.com/token/0x79e1e726add838d110c98053a0a9b7b7d6a04817",
+    "type": "BEP20",
+    "symbol": "NNF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x79e1e726add838d110c98053a0a9b7b7d6a04817"
+}
